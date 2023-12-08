@@ -152,16 +152,23 @@ const questions = [
         answer: 0,
         difficulty: "střední"
     },
+
+
+
+
+
+
+    
     {
-        question: "Kolik noh má pavouk?",
-        options: ["4", "6", "8", "10"],
-        answer: 2,
+        question: "Jaký pták neumí létat?",
+        options: ["Pštros", "Kondor", "Vlaštovka", "Sokol"],
+        answer: 0,
         difficulty: "těžká"
     },
     {
-        question: "Který had je známý svými smrtelnými jedovatými kusadly?",
-        options: ["Hroznýš brazilský", "Kobra indická", "Vodní had", "Diamantový had"],
-        answer: 1,
+        question: "Jaký je nejjedovatější had na světě?",
+        options: ["Hroznýš", "Kobra", "Zmije", "Taipan"],
+        answer: 3,
         difficulty: "těžká"
     },
     {
@@ -171,57 +178,75 @@ const questions = [
         difficulty: "těžká"
     },
     {
-        question: "Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
+        question: "Které zvíře má nejsilnější stisk?",
+        options: ["Gepard", "Lev", "Hyena", "Tygr"],
+        answer: 2,
+        difficulty: "těžká"
+    },
+    {
+        question: "Které zvíře ma největší vytrvalost?",
+        options: ["Vlk", "Medvěd", "Slon", "Gazela"],
+        answer: 0,
+        difficulty: "těžká"
+    },
+    {
+        question: "Kolik druhů hadů existuje?",
+        options: ["2 800", "3 600", "1 400", "800"],
         answer: 1,
         difficulty: "těžká"
     },
     {
-        question: "4 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
+        question: "Jaký je nejjedovatější škorpion na světě?",
+        options: ["Štír tlustorepý", "Štír samičí", "Štír bahijský", "Štír smrtonoš"],
+        answer: 3,
+        difficulty: "těžká"
+    },
+    {
+        question: "Kolik váží slon africký?",
+        options: ["8t", "4t", "6t", "5,5t"],
+        answer: 2,
+        difficulty: "těžká"
+    },
+    {
+        question: "Keré zvíře je na pokraji vyhinutí?",
+        options: ["Nosorožec tuponosý severní", "Tygr indický", "Panda červená", "Levhart sněžný"],
+        answer: 0,
+        difficulty: "těžká"
+    },
+    {
+        question: "Které zvíře má 4 žaludky?",
+        options: ["Pštros", "Žirafa", "Kráva", "Lemur"],
         answer: 1,
         difficulty: "těžká"
     },
     {
-        question: "5 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
+        question: "Kolik má moucha očí?",
+        options: ["850", "2", "1000+", "400"],
         answer: 1,
         difficulty: "těžká"
     },
     {
-        question: "6 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
+        question: "Které zvíře je označováno za nejrychlejšího tvora na světě?",
+        options: ["Gepard", "Puma", "Sokol stěhovavý", "Gazela"],
+        answer: 2,
+        difficulty: "těžká"
+    },
+        {
+        question: "Jaký je největší druh medvěda?",
+        options: ["Medvěd kodiak", "Medvěd hnědý", "Medvěd malajský", "Medvěd lední"],
+        answer: 0,
+        difficulty: "těžká"
+    },
+        {
+        question: "Jak se jmenuje největší druh želvy?",
+        options: ["Želva žlutohnědá", "Kožatka velká", "Želva stepní", "Kareta obrovská"],
         answer: 1,
         difficulty: "těžká"
     },
-    {
-        question: "7 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
-        answer: 1,
-        difficulty: "těžká"
-    },
-    {
-        question: "8 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
-        answer: 1,
-        difficulty: "těžká"
-    },
-    {
-        question: "9 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
-        answer: 1,
-        difficulty: "těžká"
-    },
-    {
-        question: "10 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
-        answer: 1,
-        difficulty: "těžká"
-    },
-    {
-        question: "11 Který druh chobotnice je schopný měnit barvu?",
-        options: ["Chobotnice velká", "Kohoutková krakatice", "Chobotnice globová", "Chobotnice mimikri"],
-        answer: 1,
+        {
+        question: "Jaký je největší druh ptáka na světě?",
+        options: ["Gepard", "Puma", "sokol stěhovavý", "Pštros"],
+        answer: 2,
         difficulty: "těžká"
     },
 ];
